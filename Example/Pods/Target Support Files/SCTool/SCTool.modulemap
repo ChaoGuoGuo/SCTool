@@ -1,0 +1,6 @@
+framework module SCTool {
+  umbrella header "SCTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

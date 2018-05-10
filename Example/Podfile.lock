@@ -1,0 +1,16 @@
+PODS:
+  - SCTool (0.1.0)
+
+DEPENDENCIES:
+  - SCTool (from `../`)
+
+EXTERNAL SOURCES:
+  SCTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SCTool: c7fa9826653fbd5c9c0c2079bcdd1f1294a27b63
+
+PODFILE CHECKSUM: d26facd41bb7b3087f887a32a7b7d0e0f7153005
+
+COCOAPODS: 1.5.0
