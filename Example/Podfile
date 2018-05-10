@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SCTool_Example' do
+  pod 'SCTool', :path => '../'
+
+  target 'SCTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
